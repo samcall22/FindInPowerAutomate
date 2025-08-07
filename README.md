@@ -22,6 +22,9 @@ Python 3.x
 # Ejemplo de uso
 <img width="978" height="320" alt="image" src="https://github.com/user-attachments/assets/e5134286-ea2e-4332-8fc2-7e60d5ef55a8" />
 
+# Futuro
+**Conexión directa a Dataverse:** Descargar la solución automáticamente desde el entorno, sin necesidad de hacerlo manualmente.
+
 # Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, abre un issue o pull request para sugerencias o mejoras.
 
